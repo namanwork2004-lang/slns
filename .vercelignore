@@ -1,0 +1,7 @@
+factory.db
+__pycache__/
+.vercel
+.env*
+*.xlsx
+*.csv
+.claude/

@@ -1,0 +1,4 @@
+factory.db
+__pycache__/
+.vercel
+.env*
